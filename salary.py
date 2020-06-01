@@ -45,6 +45,3 @@ class Teacher(Menberdata):
         print("一共為：", mon + bonus)
 
 
-eric = Manager()
-iris = Teacher()
-print(iris)
